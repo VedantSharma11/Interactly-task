@@ -7,7 +7,7 @@ Welcome to the Contact Service API! This API allows you to perform CRUD operatio
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/contact-service-api.git
+    git clone https://github.com/VedantSharma11/Interactly-task
     ```
 
 2. **Install dependencies:**
